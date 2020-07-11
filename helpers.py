@@ -1,1 +1,2 @@
-print('hello, jane')
+jane = print('hello, jane')
+jane
